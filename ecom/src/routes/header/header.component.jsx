@@ -12,10 +12,10 @@ const Header = () => {
 
         <div className="nav-links-container">
           <Link className="nav-link" to="/">
-            Shop
+            SHOP
           </Link>
           <Link className="nav-link" to="/">
-            Contact
+            CONTACT
           </Link>
         </div>
       </div>
