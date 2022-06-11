@@ -4,7 +4,7 @@ const Directory = () => {
   const categories = [
     {
       id: 1,
-      title: "hats",
+      title: "hatss",
       imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
     },
     {
