@@ -1,10 +1,5 @@
+import Directory from "./components/directory/directory.component";
 const App = () => {
-  return (
-    <div className="categories-container">
-      <div className="categorie-container">
-        <div></div>
-      </div>
-    </div>
-  );
+  return <Directory />;
 };
 export default App;
